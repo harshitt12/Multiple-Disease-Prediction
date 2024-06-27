@@ -23,7 +23,7 @@ The Multiple Disease Prediction System aims to predict several diseases, includi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/multiple-disease-prediction.git
+   git clone https://github.com/harshitt12/multiple-disease-prediction.git
    cd multiple-disease-prediction
 
 2. **Create and activate a virtual environment (optional but recommended):**:
